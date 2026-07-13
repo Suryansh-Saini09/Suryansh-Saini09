@@ -1,7 +1,7 @@
 <h1 align="center">Suryansh Saini</h1>
 
 <p align="center">
-  <b>CS Engineering Student | AI/ML Engineer in Progress | Data Science Learner | Full-Stack Developer</b>
+  <b>Computer Application Student | AI/ML Engineer in Progress | Data Science Learner | Full-Stack Developer</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am a Computer Science and Engineering student focused on AI Engineering, Machine Learning Engineering, Data Science, and Full-Stack Development.
+I am a Computer Application student focused on AI Engineering, Machine Learning Engineering, Data Science, and Full-Stack Development.
 
 My goal is to build intelligent systems that are useful, reliable, and easy to understand. I am strengthening my foundation in software engineering, Java DSA, backend development, data analysis, and applied AI while building public projects that show end-to-end thinking.
 
