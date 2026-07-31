@@ -49,8 +49,12 @@ Current direction:
 ### Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -58,29 +62,46 @@ Current direction:
 ### Backend and Web
 
 <p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### AI, ML, and Data
 
 <p>
-  <img src="https://img.shields.io/badge/Applied%20AI-Learning-412991?style=for-the-badge" alt="Applied AI" />
-  <img src="https://img.shields.io/badge/LLMs-Building-0A66C2?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-Exploring-2E8B57?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Data%20Science-Practicing-FF6F00?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### Blockchain
+### Tools and Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge" alt="Remix IDE" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+## Featured Projects
+
+| Project | Focus | Status |
+|---|---|---|
+| [Customer AI Intelligence Platform](https://github.com/Suryansh-Saini09/customer-ai-intelligence-platform) | Churn prediction, EDA, reusable ML pipelines, model metrics | In Progress |
+| [NexHack Hackathon Portal](https://github.com/Suryansh-Saini09/nexhack-portal-forge) | React, TypeScript, Vite, Node.js, Express.js, event portal | Deployed |
+| [Netflix Data Analysis](https://github.com/Suryansh-Saini09/netflix-data-analysis) | Beginner EDA, data cleaning, Pandas, visual insights | Completed |
 
 ---
 
@@ -88,14 +109,13 @@ Current direction:
 
 These are the project areas I am actively building and improving to match AI Engineer, ML Engineer, Data Scientist, and Full-Stack Developer roles.
 
-| Project Type | Recruiter Signal | Suggested Repository |
-|---|---|---|
-| RAG AI Assistant | Applied AI, LLM integration, document intelligence | `rag-ai-study-assistant` |
-| ML Deployment API | Model training, evaluation, API serving, MLOps basics | `ml-model-deployment-api` |
-| Data Science Case Studies | EDA, visualization, insights, feature engineering | `data-science-portfolio` |
-| Full-Stack AI Dashboard | Frontend, backend, database, auth, AI feature integration | `full-stack-ai-dashboard` |
-| Java DSA Patterns | Algorithms, data structures, interview readiness | `java-dsa-patterns` |
-| Ethereum Contract Lab | Blockchain fundamentals, smart contracts, Remix IDE | `ethereum-smart-contract-lab` |
+| Project Type | Recruiter Signal |
+|---|---|
+| RAG AI Assistant | Applied AI, LLM integration, document intelligence |
+| ML Deployment API | Model training, evaluation, API serving, MLOps basics |
+| Data Science Case Studies | EDA, visualization, insights, feature engineering |
+| Full-Stack AI Dashboard | Frontend, backend, database, auth, AI feature integration |
+| Java DSA Patterns | Algorithms, data structures, interview readiness |
 
 ---
 
@@ -109,15 +129,19 @@ These are the project areas I am actively building and improving to match AI Eng
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryansh-Saini09&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-Saini09&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-Saini09&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
+  <a href="https://github.com/Suryansh-Saini09?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <a href="https://github.com/Suryansh-Saini09/customer-ai-intelligence-platform">
+    <img src="https://img.shields.io/badge/Current%20ML%20Project-Customer%20AI%20Platform-0A66C2?style=for-the-badge" alt="Current ML project" />
+  </a>
 </p>
 
 ---
@@ -136,5 +160,5 @@ For important projects, I aim to include:
 ---
 
 <p align="center">
-  <b>Positioning:</b> AI/ML-focused full-stack developer with strong CS fundamentals, data skills, and blockchain exposure.
+  <b>Positioning:</b> AI/ML-focused full-stack developer with strong CS fundamentals, data skills, and production web experience.
 </p>
