@@ -132,7 +132,15 @@ These are the project areas I am actively building and improving to match AI Eng
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-Saini09&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-Saini09&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak" />
 </p>
 
 <p align="center">
