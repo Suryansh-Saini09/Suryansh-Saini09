@@ -129,6 +129,20 @@ These are the project areas I am actively building and improving to match AI Eng
 
 ---
 
+## Contribution Arcade
+
+<p align="center">
+  <b>Daily contribution trail, generated as a premium snake animation.</b>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/contribution-snake.svg" />
+    <img alt="Premium GitHub contribution snake animation" src="https://raw.githubusercontent.com/Suryansh-Saini09/Suryansh-Saini09/output/contribution-snake.svg" />
+  </picture>
+</p>
+
 ## GitHub Activity
 
 <p align="center">
